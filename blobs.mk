@@ -30,4 +30,16 @@ PRODUCT_COPY_FILES += \
 	vendor/fairphone/fp1/proprietary/system/bin/6620_launcher:system/bin/6620_launcher \
 	vendor/fairphone/fp1/proprietary/system/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
 	vendor/fairphone/fp1/proprietary/system/xbin/mnld:system/xbin/mnld \
-	vendor/fairphone/fp1/proprietary/system/xbin/libmnlp_mt6628:system/xbin/libmnlp_mt6628
+	vendor/fairphone/fp1/proprietary/system/xbin/libmnlp_mt6628:system/xbin/libmnlp_mt6628 \
+	vendor/fairphone/fp1/proprietary/system/lib/libaed.so:system/lib/libaed.so \
+	vendor/fairphone/fp1/proprietary/system/lib/hw/audio_policy.mt6589.so:system/lib/hw/audio_policy.mt6589.so \
+	vendor/fairphone/fp1/proprietary/system/lib/libmtk_drvb.so:system/lib/libmtk_drvb.so \
+	vendor/fairphone/fp1/proprietary/system/lib/libblisrc.so:system/lib/libblisrc.so \
+	vendor/fairphone/fp1/proprietary/system/lib/libspeech_enh_lib.so:system/lib/libspeech_enh_lib.so \
+	vendor/fairphone/fp1/proprietary/system/lib/hw/audio.primary.mt6589.so:system/lib/hw/audio.primary.mt6589.so \
+	vendor/fairphone/fp1/proprietary/system/lib/libaudiocustparam.so:system/lib/libaudiocustparam.so \
+	vendor/fairphone/fp1/proprietary/system/lib/libaudiosetting.so:system/lib/libaudiosetting.so \
+	vendor/fairphone/fp1/proprietary/system/lib/libbessound_mtk.so:system/lib/libbessound_mtk.so \
+	vendor/fairphone/fp1/proprietary/system/lib/libaudiocompensationfilter.so:system/lib/libaudiocompensationfilter.so \
+	vendor/fairphone/fp1/proprietary/system/etc/audio_policy.conf:system/etc/audio_policy.conf \
+	vendor/fairphone/fp1/proprietary/system/etc/audio_effects.conf:system/etc/audio_effects.conf
