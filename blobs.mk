@@ -42,4 +42,6 @@ PRODUCT_COPY_FILES += \
 	vendor/fairphone/fp1/proprietary/system/lib/libbessound_mtk.so:system/lib/libbessound_mtk.so \
 	vendor/fairphone/fp1/proprietary/system/lib/libaudiocompensationfilter.so:system/lib/libaudiocompensationfilter.so \
 	vendor/fairphone/fp1/proprietary/system/etc/audio_policy.conf:system/etc/audio_policy.conf \
-	vendor/fairphone/fp1/proprietary/system/etc/audio_effects.conf:system/etc/audio_effects.conf
+	vendor/fairphone/fp1/proprietary/system/etc/audio_effects.conf:system/etc/audio_effects.conf \
+	vendor/fairphone/fp1/proprietary/system/lib/libbluetoothdrv.so:system/lib/libbluetoothdrv.so \
+	vendor/fairphone/fp1/proprietary/system/lib/libbluetooth_mtk.so:system/lib/libbluetooth_mtk.so
